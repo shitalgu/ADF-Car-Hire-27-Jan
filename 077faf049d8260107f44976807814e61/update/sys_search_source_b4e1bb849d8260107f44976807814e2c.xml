@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_search_source">
+    <sys_search_source action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition/>
+        <name>Car Hires</name>
+        <source_table>x_cdltd_car_hire_car_hire</source_table>
+        <sys_class_name>sys_search_source</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-27 07:03:09</sys_created_on>
+        <sys_id>b4e1bb849d8260107f44976807814e2c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Car Hires</sys_name>
+        <sys_package display_value="Car Hire Management" source="x_cdltd_car_hire">077faf049d8260107f44976807814e61</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Car Hire Management">077faf049d8260107f44976807814e61</sys_scope>
+        <sys_update_name>sys_search_source_b4e1bb849d8260107f44976807814e2c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-27 07:03:09</sys_updated_on>
+    </sys_search_source>
+    <sys_translated_text action="delete_multiple" query="documentkey=b4e1bb849d8260107f44976807814e2c"/>
+</record_update>
