@@ -1,15 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="task" label="Car Hire Test" max_length="40" name="x_cdltd_car_hire_car_hire" text_index="true" type="collection">
+    <element extends="task" label="Car Hire Test" max_length="40" name="x_cdltd_car_hire_car_hire" sizeclass="1" text_index="true" type="collection">
+        <element attributes="edge_encryption_enabled=true" choice="1" choice_field="brand_name" choice_table="x_cdltd_car_hire_cars" label="Brand Name" max_length="40" name="brand_name" type="string">
+            <choice/>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" dependent="brand_name" dependent_on_field="brand_name" label="Car Name" max_length="40" name="car_name" type="string" use_dependent_field="true">
+            <choice>
+                <element dependent_value="bmw" inactive_on_update="false" label="BMW 3 series" value="bmw3"/>
+                <element dependent_value="bmw" inactive_on_update="false" label="Fortuner" value="for"/>
+                <element dependent_value="toyota" inactive_on_update="false" label="Glanza" value="glanza"/>
+                <element dependent_value="toyota" inactive_on_update="false" label="Polo" value="polo"/>
+                <element inactive_on_update="false" label="Ventro" value="ventro"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Car Type" max_length="40" name="car_type" type="string">
+            <choice/>
+        </element>
         <element label="Color" max_length="40" name="color" type="color"/>
         <element attributes="edge_encryption_enabled=true" label="Drop off Time" max_length="40" name="drop_off_time" type="glide_date_time"/>
         <element choice="1" label="Fuel Type" max_length="40" name="fuel_type" type="choice">
-            <choice/>
+            <choice>
+                <element inactive_on_update="false" label="Petrol" value="petrol"/>
+            </choice>
         </element>
         <element label="Hirer Contact Number" max_length="40" name="hirer_contact_number" type="string"/>
         <element label="Hirer Name" max_length="32" name="hirer_name" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Other location" max_length="40" name="other_location" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Pick Up time" max_length="40" name="pick_up_time" type="glide_date_time"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Travel Type" max_length="40" name="travel_type" type="choice">
-            <choice/>
+            <choice>
+                <element inactive_on_update="false" label="One Way" sequence="0" value="one_way"/>
+            </choice>
         </element>
     </element>
 </database>

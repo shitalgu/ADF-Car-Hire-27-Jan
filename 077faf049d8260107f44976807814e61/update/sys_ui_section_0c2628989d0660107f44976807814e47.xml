@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="0c2628989d0660107f44976807814e47" sys_domain="global" table="x_cdltd_car_hire_car_hire" version="3" view="ess">
+        <sys_ui_annotation action="INSERT_OR_UPDATE">
+            <is_plain_text>false</is_plain_text>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-01-28 04:26:17</sys_created_on>
+            <sys_id>6897d4649d4e60107f44976807814e4f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-01-28 04:26:17</sys_updated_on>
+            <text>Please upload DL</text>
+            <type display_value="Info Box Blue">753f88a80f930000b12e6903cfe01206</type>
+        </sys_ui_annotation>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-01-28 04:26:17</sys_created_on>
+            <sys_id>e097d4649d4e60107f44976807814ebb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_cdltd_car_hire_car_hire" sys_domain="global" view="cf6643402d1210107f4442beff93c403">0c2628989d0660107f44976807814e47</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-01-28 04:26:17</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>pick_up_time</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-01-28 04:26:17</sys_created_on>
+            <sys_id>6c97d4649d4e60107f44976807814ebb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_cdltd_car_hire_car_hire" sys_domain="global" view="cf6643402d1210107f4442beff93c403">0c2628989d0660107f44976807814e47</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-01-28 04:26:17</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>location</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-01-28 04:26:17</sys_created_on>
+            <sys_id>e097d4649d4e60107f44976807814ebc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_cdltd_car_hire_car_hire" sys_domain="global" view="cf6643402d1210107f4442beff93c403">0c2628989d0660107f44976807814e47</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-01-28 04:26:17</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>other_location</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-01-28 04:26:17</sys_created_on>
+            <sys_id>6897d4649d4e60107f44976807814ebc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_cdltd_car_hire_car_hire" sys_domain="global" view="cf6643402d1210107f4442beff93c403">0c2628989d0660107f44976807814e47</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-01-28 04:26:17</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>short_description</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-01-28 04:26:17</sys_created_on>
+            <sys_id>ec97d4649d4e60107f44976807814ebc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_cdltd_car_hire_car_hire" sys_domain="global" view="cf6643402d1210107f4442beff93c403">0c2628989d0660107f44976807814e47</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-01-28 04:26:17</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-01-28 04:26:17</sys_created_on>
+            <sys_id>6497d4649d4e60107f44976807814ebd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_cdltd_car_hire_car_hire" sys_domain="global" view="cf6643402d1210107f4442beff93c403">0c2628989d0660107f44976807814e47</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-01-28 04:26:17</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>travel_type</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-01-28 04:26:17</sys_created_on>
+            <sys_id>e897d4649d4e60107f44976807814ebd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_cdltd_car_hire_car_hire" sys_domain="global" view="cf6643402d1210107f4442beff93c403">0c2628989d0660107f44976807814e47</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-01-28 04:26:17</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>drop_off_time</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-01-28 04:26:17</sys_created_on>
+            <sys_id>6097d4649d4e60107f44976807814ebe</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_cdltd_car_hire_car_hire" sys_domain="global" view="cf6643402d1210107f4442beff93c403">0c2628989d0660107f44976807814e47</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-01-28 04:26:17</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-01-28 04:26:17</sys_created_on>
+            <sys_id>e497d4649d4e60107f44976807814ebe</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_cdltd_car_hire_car_hire" sys_domain="global" view="cf6643402d1210107f4442beff93c403">0c2628989d0660107f44976807814e47</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-01-28 04:26:17</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>6897d4649d4e60107f44976807814e4f</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-01-28 04:26:17</sys_created_on>
+            <sys_id>6c97d4649d4e60107f44976807814ebe</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_cdltd_car_hire_car_hire" sys_domain="global" view="cf6643402d1210107f4442beff93c403">0c2628989d0660107f44976807814e47</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-01-28 04:26:17</sys_updated_on>
+            <sys_user/>
+            <type>annotation</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_cdltd_car_hire_car_hire</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-01-27 10:51:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0c2628989d0660107f44976807814e47</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_cdltd_car_hire_car_hire</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Car Hire Management" source="x_cdltd_car_hire">077faf049d8260107f44976807814e61</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Car Hire Management">077faf049d8260107f44976807814e61</sys_scope>
+            <sys_update_name>sys_ui_section_0c2628989d0660107f44976807814e47</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-01-27 10:51:23</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Self Service" name="ess">cf6643402d1210107f4442beff93c403</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

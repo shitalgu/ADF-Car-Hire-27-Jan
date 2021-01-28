@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-27 08:22:38</sys_created_on>
+        <sys_id>301400d09dc260107f44976807814e00</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_cdltd_car_hire_test.x_cdltd_car_hire.test_user</sys_name>
+        <sys_package display_value="Car Hire Management" source="x_cdltd_car_hire">077faf049d8260107f44976807814e61</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Car Hire Management">077faf049d8260107f44976807814e61</sys_scope>
+        <sys_security_acl display_value="x_cdltd_car_hire_test">fc14cc909dc260107f44976807814efc</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_301400d09dc260107f44976807814e00</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-27 08:22:38</sys_updated_on>
+        <sys_user_role display_value="x_cdltd_car_hire.test_user" name="x_cdltd_car_hire.test_user">7414cc909dc260107f44976807814ed8</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Car Hire Management">077faf049d8260107f44976807814e61</application>
+        <file_path/>
+        <instance_id>df3c7b271b35681064e9beef034bcb37</instance_id>
+        <instance_name>adf-jan-868-dev-001-instructor</instance_name>
+        <name>sys_security_acl_role_301400d09dc260107f44976807814e00</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-01-27 08:22:38</sys_created_on><sys_id>301400d09dc260107f44976807814e00</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_cdltd_car_hire_test.x_cdltd_car_hire.test_user</sys_name><sys_package display_value="Car Hire Management" source="x_cdltd_car_hire">077faf049d8260107f44976807814e61</sys_package><sys_policy/><sys_scope display_value="Car Hire Management">077faf049d8260107f44976807814e61</sys_scope><sys_security_acl display_value="x_cdltd_car_hire_test">fc14cc909dc260107f44976807814efc</sys_security_acl><sys_update_name>sys_security_acl_role_301400d09dc260107f44976807814e00</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-01-27 08:22:38</sys_updated_on><sys_user_role display_value="x_cdltd_car_hire.test_user" name="x_cdltd_car_hire.test_user">7414cc909dc260107f44976807814ed8</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>1744628132</payload_hash>
+        <record_name>x_cdltd_car_hire_test.x_cdltd_car_hire.test_user</record_name>
+        <reverted_from/>
+        <source>4b7faf049d8260107f44976807814e63</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-27 08:22:38</sys_created_on>
+        <sys_id>781400d09dc260107f44976807814e02</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17742eff5bd0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-27 08:22:38</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>b01400d0a0c26010b5e37877033b5602</update_guid>
+        <update_guid_history>b01400d0a0c26010b5e37877033b5602:1744628132</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_cdltd_car_hire_test.x_cdltd_car_hire.test_user">b9b5299c9d8660107f44976807814e52</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-27 15:29:13</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>9b6d6428e08549c09952558bf927f684</sys_id>
+        <sys_metadata>301400d09dc260107f44976807814e00</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_cdltd_car_hire_test.x_cdltd_car_hire.test_user</sys_name>
+        <sys_package display_value="Car Hire Management" source="x_cdltd_car_hire">077faf049d8260107f44976807814e61</sys_package>
+        <sys_parent display_value="">fc14cc909dc260107f44976807814efc</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Car Hire Management">077faf049d8260107f44976807814e61</sys_scope>
+        <sys_scope_delete display_value="">9325bad403bc4f20ab9967c2d30fd9a9</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_301400d09dc260107f44976807814e00</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_301400d09dc260107f44976807814e00">781400d09dc260107f44976807814e02</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-27 15:29:13</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

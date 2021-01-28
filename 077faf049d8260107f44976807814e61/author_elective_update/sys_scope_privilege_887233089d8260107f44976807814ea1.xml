@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_scope_privilege">
+    <sys_scope_privilege action="DELETE">
+        <operation>execute</operation>
+        <source_scope display_value="Car Hire Management">077faf049d8260107f44976807814e61</source_scope>
+        <status>allowed</status>
+        <sys_class_name>sys_scope_privilege</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-27 07:05:34</sys_created_on>
+        <sys_id>887233089d8260107f44976807814ea1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Glide API: properties</sys_name>
+        <sys_package display_value="Car Hire Management" source="x_cdltd_car_hire">077faf049d8260107f44976807814e61</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Car Hire Management">077faf049d8260107f44976807814e61</sys_scope>
+        <sys_update_name>sys_scope_privilege_887233089d8260107f44976807814ea1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-27 07:05:34</sys_updated_on>
+        <target_name>Glide API: properties</target_name>
+        <target_scope display_value="Global">global</target_scope>
+        <target_type>scriptable</target_type>
+    </sys_scope_privilege>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Car Hire Management">077faf049d8260107f44976807814e61</application>
+        <file_path/>
+        <instance_id>df3c7b271b35681064e9beef034bcb37</instance_id>
+        <instance_name>adf-jan-868-dev-001-instructor</instance_name>
+        <name>sys_scope_privilege_887233089d8260107f44976807814ea1</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_scope_privilege"><sys_scope_privilege action="INSERT_OR_UPDATE"><operation>execute</operation><source_scope display_value="Car Hire Management">077faf049d8260107f44976807814e61</source_scope><status>allowed</status><sys_class_name>sys_scope_privilege</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-01-27 07:05:34</sys_created_on><sys_id>887233089d8260107f44976807814ea1</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Glide API: properties</sys_name><sys_package display_value="Car Hire Management" source="x_cdltd_car_hire">077faf049d8260107f44976807814e61</sys_package><sys_policy/><sys_scope display_value="Car Hire Management">077faf049d8260107f44976807814e61</sys_scope><sys_update_name>sys_scope_privilege_887233089d8260107f44976807814ea1</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-01-27 07:05:34</sys_updated_on><target_name>Glide API: properties</target_name><target_scope display_value="Global">global</target_scope><target_type>scriptable</target_type></sys_scope_privilege></record_update>]]></payload>
+        <payload_hash>-495210719</payload_hash>
+        <record_name>Glide API: properties</record_name>
+        <reverted_from/>
+        <source>4b7faf049d8260107f44976807814e63</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-27 07:05:34</sys_created_on>
+        <sys_id>c07233089d8260107f44976807814ea3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17742a967c00000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-27 07:05:34</sys_updated_on>
+        <type>Cross scope privilege</type>
+        <update_guid>0c72330860826010e19a338a1a36caa2</update_guid>
+        <update_guid_history>0c72330860826010e19a338a1a36caa2:-495210719</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-27 15:27:27</sys_created_on>
+        <sys_db_object display_value="" name="sys_scope_privilege">sys_scope_privilege</sys_db_object>
+        <sys_id>0d0f5ba7e7e04ec9a87204229725b821</sys_id>
+        <sys_metadata>887233089d8260107f44976807814ea1</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Glide API: properties</sys_name>
+        <sys_package display_value="Car Hire Management" source="x_cdltd_car_hire">077faf049d8260107f44976807814e61</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Car Hire Management">077faf049d8260107f44976807814e61</sys_scope>
+        <sys_scope_delete display_value="">9325bad403bc4f20ab9967c2d30fd9a9</sys_scope_delete>
+        <sys_update_name>sys_scope_privilege_887233089d8260107f44976807814ea1</sys_update_name>
+        <sys_update_version display_value="sys_scope_privilege_887233089d8260107f44976807814ea1">c07233089d8260107f44976807814ea3</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-27 15:27:27</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

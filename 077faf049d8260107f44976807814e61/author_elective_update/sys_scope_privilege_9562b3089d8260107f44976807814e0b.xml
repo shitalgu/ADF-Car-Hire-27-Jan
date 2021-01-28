@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_scope_privilege">
+    <sys_scope_privilege action="DELETE">
+        <operation>execute</operation>
+        <source_scope display_value="Car Hire Management">077faf049d8260107f44976807814e61</source_scope>
+        <status>allowed</status>
+        <sys_class_name>sys_scope_privilege</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-27 07:05:23</sys_created_on>
+        <sys_id>9562b3089d8260107f44976807814e0b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ManyToManyChecker</sys_name>
+        <sys_package display_value="Car Hire Management" source="x_cdltd_car_hire">077faf049d8260107f44976807814e61</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Car Hire Management">077faf049d8260107f44976807814e61</sys_scope>
+        <sys_update_name>sys_scope_privilege_9562b3089d8260107f44976807814e0b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-27 07:05:23</sys_updated_on>
+        <target_name>ManyToManyChecker</target_name>
+        <target_scope display_value="Global">global</target_scope>
+        <target_type>sys_script_include</target_type>
+    </sys_scope_privilege>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Car Hire Management">077faf049d8260107f44976807814e61</application>
+        <file_path/>
+        <instance_id>df3c7b271b35681064e9beef034bcb37</instance_id>
+        <instance_name>adf-jan-868-dev-001-instructor</instance_name>
+        <name>sys_scope_privilege_9562b3089d8260107f44976807814e0b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_scope_privilege"><sys_scope_privilege action="INSERT_OR_UPDATE"><operation>execute</operation><source_scope display_value="Car Hire Management">077faf049d8260107f44976807814e61</source_scope><status>allowed</status><sys_class_name>sys_scope_privilege</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-01-27 07:05:23</sys_created_on><sys_id>9562b3089d8260107f44976807814e0b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>ManyToManyChecker</sys_name><sys_package display_value="Car Hire Management" source="x_cdltd_car_hire">077faf049d8260107f44976807814e61</sys_package><sys_policy/><sys_scope display_value="Car Hire Management">077faf049d8260107f44976807814e61</sys_scope><sys_update_name>sys_scope_privilege_9562b3089d8260107f44976807814e0b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-01-27 07:05:23</sys_updated_on><target_name>ManyToManyChecker</target_name><target_scope display_value="Global">global</target_scope><target_type>sys_script_include</target_type></sys_scope_privilege></record_update>]]></payload>
+        <payload_hash>-1521117982</payload_hash>
+        <record_name>ManyToManyChecker</record_name>
+        <reverted_from/>
+        <source>4b7faf049d8260107f44976807814e63</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-27 07:05:23</sys_created_on>
+        <sys_id>1d62b3089d8260107f44976807814e0d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17742a93c730000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-27 07:05:23</sys_updated_on>
+        <type>Cross scope privilege</type>
+        <update_guid>5562b308bb82601009479236edadf60d</update_guid>
+        <update_guid_history>5562b308bb82601009479236edadf60d:-1521117982</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-27 15:27:27</sys_created_on>
+        <sys_db_object display_value="" name="sys_scope_privilege">sys_scope_privilege</sys_db_object>
+        <sys_id>8fff0f81b8164be0934738a2b3d79de4</sys_id>
+        <sys_metadata>9562b3089d8260107f44976807814e0b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ManyToManyChecker</sys_name>
+        <sys_package display_value="Car Hire Management" source="x_cdltd_car_hire">077faf049d8260107f44976807814e61</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Car Hire Management">077faf049d8260107f44976807814e61</sys_scope>
+        <sys_scope_delete display_value="">9325bad403bc4f20ab9967c2d30fd9a9</sys_scope_delete>
+        <sys_update_name>sys_scope_privilege_9562b3089d8260107f44976807814e0b</sys_update_name>
+        <sys_update_version display_value="sys_scope_privilege_9562b3089d8260107f44976807814e0b">1d62b3089d8260107f44976807814e0d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-27 15:27:27</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

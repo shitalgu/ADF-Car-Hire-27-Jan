@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="New Section" section_id="7af8681c9d0660107f44976807814ec3" sys_domain="global" table="x_cdltd_car_hire_car_hire" version="3" view="ess">
+        <sys_ui_annotation action="INSERT_OR_UPDATE">
+            <is_plain_text>false</is_plain_text>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-01-27 11:03:52</sys_created_on>
+            <sys_id>72f8681c9d0660107f44976807814eec</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-01-27 11:03:52</sys_updated_on>
+            <text>Please upload DL</text>
+            <type display_value="Info Box Blue">753f88a80f930000b12e6903cfe01206</type>
+        </sys_ui_annotation>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>72f8681c9d0660107f44976807814eec</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-01-27 11:03:52</sys_created_on>
+            <sys_id>7af8681c9d0660107f44976807814eec</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_cdltd_car_hire_car_hire" sys_domain="global" view="cf6643402d1210107f4442beff93c403">7af8681c9d0660107f44976807814ec3</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-01-27 11:03:52</sys_updated_on>
+            <sys_user/>
+            <type>annotation</type>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption>New Section</caption>
+            <header>false</header>
+            <name>x_cdltd_car_hire_car_hire</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-01-27 11:03:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7af8681c9d0660107f44976807814ec3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_cdltd_car_hire_car_hire</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Car Hire Management" source="x_cdltd_car_hire">077faf049d8260107f44976807814e61</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Car Hire Management">077faf049d8260107f44976807814e61</sys_scope>
+            <sys_update_name>sys_ui_section_7af8681c9d0660107f44976807814ec3</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-01-27 11:03:52</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Self Service" name="ess">cf6643402d1210107f4442beff93c403</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Car Hire Management">077faf049d8260107f44976807814e61</application>
+        <file_path/>
+        <instance_id>df3c7b271b35681064e9beef034bcb37</instance_id>
+        <instance_name>adf-jan-868-dev-001-instructor</instance_name>
+        <name>sys_ui_section_7af8681c9d0660107f44976807814ec3</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="New Section" section_id="7af8681c9d0660107f44976807814ec3" sys_domain="global" table="x_cdltd_car_hire_car_hire" version="3" view="ess"><sys_ui_annotation action="INSERT_OR_UPDATE"><is_plain_text>false</is_plain_text><sys_created_by>admin</sys_created_by><sys_created_on>2021-01-27 11:03:52</sys_created_on><sys_id>72f8681c9d0660107f44976807814eec</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-01-27 11:03:52</sys_updated_on><text>Please upload DL</text><type display_value="Info Box Blue">753f88a80f930000b12e6903cfe01206</type></sys_ui_annotation><sys_ui_element action="INSERT_OR_UPDATE"><element>72f8681c9d0660107f44976807814eec</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2021-01-27 11:03:52</sys_created_on><sys_id>7af8681c9d0660107f44976807814eec</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New Section" display_value="New Section" name="x_cdltd_car_hire_car_hire" sys_domain="global" view="cf6643402d1210107f4442beff93c403">7af8681c9d0660107f44976807814ec3</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-01-27 11:03:52</sys_updated_on><sys_user/><type>annotation</type></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption>New Section</caption><header>false</header><name>x_cdltd_car_hire_car_hire</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-01-27 11:03:52</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>7af8681c9d0660107f44976807814ec3</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_cdltd_car_hire_car_hire</sys_name><sys_overrides/><sys_package display_value="Car Hire Management" source="x_cdltd_car_hire">077faf049d8260107f44976807814e61</sys_package><sys_policy/><sys_scope display_value="Car Hire Management">077faf049d8260107f44976807814e61</sys_scope><sys_update_name>sys_ui_section_7af8681c9d0660107f44976807814ec3</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-01-27 11:03:52</sys_updated_on><sys_user/><title>false</title><view display_value="Self Service" name="ess">cf6643402d1210107f4442beff93c403</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>1119456975</payload_hash>
+        <record_name>Car Hire Test</record_name>
+        <reverted_from/>
+        <source>427b44189dc260107f44976807814e20</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-27 11:03:52</sys_created_on>
+        <sys_id>76f8681c9d0660107f44976807814eee</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>177438394390000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-27 11:03:52</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>fef8681cc7066010709b3b5bf88a96ed</update_guid>
+        <update_guid_history>fef8681cc7066010709b3b5bf88a96ed:1119456975</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-27 11:04:22</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>d60499be9bcb443eaed053f0a70f5224</sys_id>
+        <sys_metadata>7af8681c9d0660107f44976807814ec3</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New Section</sys_name>
+        <sys_package display_value="Car Hire Management" source="x_cdltd_car_hire">077faf049d8260107f44976807814e61</sys_package>
+        <sys_parent display_value="Car Hire Test">c4c1f7849d8260107f44976807814e9b</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Car Hire Management">077faf049d8260107f44976807814e61</sys_scope>
+        <sys_scope_delete display_value="">9325bad403bc4f20ab9967c2d30fd9a9</sys_scope_delete>
+        <sys_update_name>sys_ui_section_7af8681c9d0660107f44976807814ec3</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_7af8681c9d0660107f44976807814ec3">76f8681c9d0660107f44976807814eee</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-27 11:04:22</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_style">
+    <sys_ui_style action="INSERT_OR_UPDATE">
+        <alt/>
+        <element>pick_up_time</element>
+        <name>x_cdltd_car_hire_car_hire</name>
+        <style>background-color:pink;&#13;
+color:grey;&#13;
+font-size:20px;&#13;
+font-weight:bold;</style>
+        <sys_class_name>sys_ui_style</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-27 10:54:09</sys_created_on>
+        <sys_id>51866c989d0660107f44976807814e32</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_cdltd_car_hire_car_hire</sys_name>
+        <sys_package display_value="Car Hire Management" source="x_cdltd_car_hire">077faf049d8260107f44976807814e61</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Car Hire Management">077faf049d8260107f44976807814e61</sys_scope>
+        <sys_update_name>sys_ui_style_51866c989d0660107f44976807814e32</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-27 10:54:09</sys_updated_on>
+        <value/>
+    </sys_ui_style>
+    <sys_translated_text action="delete_multiple" query="documentkey=51866c989d0660107f44976807814e32"/>
+</record_update>

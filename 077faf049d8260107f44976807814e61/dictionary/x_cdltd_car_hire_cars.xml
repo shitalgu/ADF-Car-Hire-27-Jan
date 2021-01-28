@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Cars" max_length="40" name="x_cdltd_car_hire_cars" type="collection">
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Brand Name" max_length="40" name="brand_name" type="string">
+            <choice>
+                <element inactive_on_update="false" label="BMW" sequence="0" value="bmw"/>
+                <element inactive_on_update="false" label="Toyota" sequence="1" value="toyota"/>
+                <element inactive_on_update="false" label="Volkwagen" sequence="2" value="volkwagen"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Registration Number" max_length="40" name="registration_number" type="string" unique="true"/>
+        <index name="index">
+            <element name="registration_number"/>
+        </index>
+    </element>
+</database>
